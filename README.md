@@ -14,3 +14,4 @@ Since this uses Ajax, it will not work locally in Chrome (i.e. with a file:// ur
  * **transform-all.js** is the [Streamline.js API](https://github.com/Sage/streamlinejs/blob/e10906d6cd1331cff9963ce9d18f3c6bd3de59bb/lib/callbacks/transform-all.js).
  * **runner.js** loads *app.js*, runs it through Streamline.js and executes it
  * **prompt_alert.js** implements the HTML prompt and alert interface
+ * **style.css** gives the page its style
